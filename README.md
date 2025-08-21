@@ -41,3 +41,30 @@ Esse é um glossário de QA, para registro e consulta de termos em teste de soft
 
 # Artefatos e  Documentção
 
+**Plano de Testes (Test Plan)**: Documento que define o escopo, abordagem e cronograma dos testes.
+
+**Caso de Teste (Test Case)**: Conjunto de condições/entradas para verificar se uma funcionalidade funciona corretamente.
+
+**Cenário de Teste (Test Scenario)**: Situação de uso do sistema a ser testada (mais alto nível que caso de teste).
+
+**Matriz de Rastreabilidade (Traceability Matrix)**: Relaciona requisitos com os casos de teste que os validam.
+
+**Defect Report ou Bug Report**: Relatório de defeito, descrevendo bug encontrado.
+
+# Ciclo de Vida
+
+**SDLC (Software Development Life Cycle)**: Ciclo de vida do desenvolvimento de software.
+
+**STLC (Software Testing Life Cycle)**: Ciclo de vida do processo de testes.
+
+**Agile Testing**: Testes em metodologias ágeis (Scrum, Kanban).
+
+**DevOps/CI/CD**: Integração Contínua e Entrega Contínua, onde testes automatizados têm papel essencial.
+
+### Fonte 
+Chat GPT 5
+
+### Editado por
+**Daniel Pereira Dias**
+
+Agosto 2025
