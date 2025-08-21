@@ -1,6 +1,6 @@
 # Glossario-do-QA
 Esse é um glossário de QA, para registro e consulta de termos em teste de software.
-
+___
 **QA (Quality Assurance)**: Garantia da qualidade, conjunto de processos para assegurar que o produto/software atenda aos requisitos e padrões
 
 **QC (Quality control)**: Controle da qualidade, atividades práticas de verificação do produto final.
@@ -12,7 +12,7 @@ Esse é um glossário de QA, para registro e consulta de termos em teste de soft
 **Falha**: Quando o defeito se manifesta na execução.
 
 # Tipos de teste
-
+___
 **Teste Unitário**: Teste a menor parte possível do código (ex.: Função ou método).
 
 **Teste de integração**: Verifica a interação entre diferentes módulos do sistema.
@@ -40,7 +40,7 @@ Esse é um glossário de QA, para registro e consulta de termos em teste de soft
 **Teste de Segurança**: Verifica vulnerabilidades e proteção de dados.
 
 # Artefatos e  Documentção
-
+___
 **Plano de Testes (Test Plan)**: Documento que define o escopo, abordagem e cronograma dos testes.
 
 **Caso de Teste (Test Case)**: Conjunto de condições/entradas para verificar se uma funcionalidade funciona corretamente.
@@ -52,7 +52,7 @@ Esse é um glossário de QA, para registro e consulta de termos em teste de soft
 **Defect Report ou Bug Report**: Relatório de defeito, descrevendo bug encontrado.
 
 # Ciclo de Vida
-
+___
 **SDLC (Software Development Life Cycle)**: Ciclo de vida do desenvolvimento de software.
 
 **STLC (Software Testing Life Cycle)**: Ciclo de vida do processo de testes.
@@ -60,7 +60,7 @@ Esse é um glossário de QA, para registro e consulta de termos em teste de soft
 **Agile Testing**: Testes em metodologias ágeis (Scrum, Kanban).
 
 **DevOps/CI/CD**: Integração Contínua e Entrega Contínua, onde testes automatizados têm papel essencial.
-
+___
 ### Fonte 
 Chat GPT 5
 
